@@ -46,7 +46,7 @@ Vous aurez besoin d'installer les logiciels suivants
 
 - jsp
 
-> Fonctionnalité
+> Fonctionnalités
 
 - [x] Voir la liste des élèves
 - [ ] Voir les notes d'un élève
