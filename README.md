@@ -3,8 +3,8 @@
 
 > L'objectif du projet
 
-    - créer une page readme pour les projets à venir.
-    - apprendre à utiiser Github / GitCraken
+- créer une page readme pour les projets à venir.
+- apprendre à utiiser Github / GitCraken
 
 > Les prérequis
 
