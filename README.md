@@ -1,5 +1,5 @@
- # <p align="center"> Projet Readme </p>
-### L'entrée de Gitlab
+ # <p align="center" color="red"> Projet Readme </p>
+### <p align="center"> L'entrée de Gitlab </p>
 
 > L'objectif du projet
 
