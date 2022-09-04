@@ -12,59 +12,59 @@ Télécharger le projet [ici](https://youtu.be/dQw4w9WgXcQ)
 
 Vous aurez besoin d'installer les logiciels suivants 
 
-    - [Visual Studio Code](https://code.visualstudio.com/download)
-    - [Visual Studio 2022](https://visualstudio.microsoft.com/fr/vs/)
-    - [Mon avenir](https://fr.wikipedia.org/wiki/Néant)
+- [Visual Studio Code](https://code.visualstudio.com/download)
+- [Visual Studio 2022](https://visualstudio.microsoft.com/fr/vs/)
+- [Mon avenir](https://fr.wikipedia.org/wiki/Néant)
 
 > Les Auteurs
 
-    * Romain Zabeth 
-        - l'Homme AR 60
-        - Saint Adjutor
+* Romain Zabeth 
+  - l'Homme AR 60
+  - Saint Adjutor
 
 > License autorisée
 
-    - jsp
+- jsp
 
 > Guide et standardisation
 
-    - on verra le sang
+- on verra le sang
 
 > API
 
-    - fait acte de présence rien de plus
+- fait acte de présence rien de plus
 
 > Exécution et écriture des tests
 
-    - style utilisé :
+- style utilisé :
 
 > Compilation
 
-    - /yapasdecommandela
+- /yapasdecommandela
 
 > Déploiement
 
-    - jsp
+- jsp
 
 > Fonctionnalité
 
-    - [x] Voir la liste des élèves
-    - [ ] Voir les notes d'un élève
-    - [ ] Ajouter une note à un élève
+- [x] Voir la liste des élèves
+- [ ] Voir les notes d'un élève
+- [ ] Ajouter une note à un élève
 
 > Technologies
 
-    - [lien 1]()
-    - [lien 2]()
-    - [lien 3]()
+- [lien 1]()
+- [lien 2]()
+- [lien 3]()
 
 > Comment contribuer 
 
-    - Me Contacter
+- Me Contacter
 
 > Versionnement
 
-    - je commence à parler chinois 
+- je commence à parler chinois 
 
 > Crédits
 
