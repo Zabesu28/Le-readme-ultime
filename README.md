@@ -28,11 +28,11 @@ Vous aurez besoin d'installer les logiciels suivants
 
 > Guide et standardisation
 
-- on verra le sang
+- on verra
 
 > API
 
-- fait acte de présence rien de plus
+- il est là
 
 > Exécution et écriture des tests
 
@@ -64,11 +64,12 @@ Vous aurez besoin d'installer les logiciels suivants
 
 > Versionnement
 
-- je commence à parler chinois 
+- ouais et tout 
 
 > Crédits
 
-Merci à Paul Mirabel pour le sub
+Merci PauPaul
+
 
 
 
