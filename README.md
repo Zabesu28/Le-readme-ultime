@@ -26,7 +26,7 @@ Vous aurez besoin d'installer les logiciels suivants
 
 - jsp
 
-> Guide et standardisation
+### Guide et standardisation
 
 - on verra
 
