@@ -18,7 +18,7 @@ Vous aurez besoin d'installer les logiciels suivants
 
 ### Les Auteurs
 
-* Romain Zabeth 
+- Romain Zabeth 
   - l'Homme AR 60
   - Saint Adjutor
 
