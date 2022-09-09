@@ -68,7 +68,7 @@ Vous aurez besoin d'installer les logiciels suivants
 
 > Crédits
 
-Merci à vivitlère pour le sub
+Merci à Paul Mirabel pour le sub
 
 
 
