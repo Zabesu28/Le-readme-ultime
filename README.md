@@ -1,12 +1,12 @@
  # <p align="center"> Projet Readme </p>
 ### <p align="center"> L'entrée de Gitlab </p>
 
-> L'objectif du projet
+### L'objectif du projet
 
 - créer une page readme pour les projets à venir.
 - apprendre à utiliser Github / GitCraken
 
-> Les prérequis
+### Les prérequis
 
 Télécharger le projet [ici](https://youtu.be/dQw4w9WgXcQ)
 
@@ -16,13 +16,13 @@ Vous aurez besoin d'installer les logiciels suivants
 - [Visual Studio 2022](https://visualstudio.microsoft.com/fr/vs/)
 - [Mon avenir](https://fr.wikipedia.org/wiki/Néant)
 
-> Les Auteurs
+### Les Auteurs
 
 * Romain Zabeth 
   - l'Homme AR 60
   - Saint Adjutor
 
-> License autorisée
+### License autorisée
 
 - jsp
 
@@ -30,43 +30,43 @@ Vous aurez besoin d'installer les logiciels suivants
 
 - on verra
 
-> API
+### API
 
 - il est là
 
-> Exécution et écriture des tests
+### Exécution et écriture des tests
 
 - style utilisé :
 
-> Compilation
+### Compilation
 
 - /yapasdecommandela
 
-> Déploiement
+### Déploiement
 
 - jsp
 
-> Fonctionnalités
+### Fonctionnalités
 
 - [x] Voir la liste des élèves
 - [ ] Voir les notes d'un élève
 - [ ] Ajouter une note à un élève
 
-> Technologies
+### Technologies
 
 - [lien 1]()
 - [lien 2]()
 - [lien 3]()
 
-> Comment contribuer 
+### Comment contribuer 
 
 - Me Contacter
 
-> Versionnement
+### Versionnement
 
 - ouais et tout 
 
-> Crédits
+### Crédits
 
 Merci PauPaul
 
